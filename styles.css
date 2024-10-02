@@ -1,0 +1,17 @@
+header{
+    background-color: green;
+    color: aliceblue;
+}
+
+main{
+    background-color: #ffff8c;
+}
+button{
+    background-color: green;
+}
+body{
+    background-image: url("https://www.viagenspossiveis.com.br/wp-content/uploads/2013/02/C360_2012-11-19-17-59-02.jpg?_gl=1*n5qlxa*_ga*MTUxNDExMjc1Mi4xNzI3MTEwOTMy*_ga_37GXT4VGQK*MTcyNzg4NzM2MS4xMS4xLjE3Mjc4ODkyMjEuMC4wLjA.")
+}
+footer{
+    background-color: aliceblue;
+}
